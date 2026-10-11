@@ -1,0 +1,5 @@
+setVar:coin=coin-50;
+setVar:has_hei=1;
+:潘子:杀过黑驴的蹄子，阴气重的东西怵它。;
+:你付了 50 金，把黑驴蹄子收进包里。剩 {coin} 金。;
+changeScene:hub1_shop.txt;

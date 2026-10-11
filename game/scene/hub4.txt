@@ -1,0 +1,4 @@
+changeBg:bg_hei.jpg;
+:【休整】篝火烧起来了，明天还要往山下走。;
+:金币 {coin}　属性点 {pts}　线索 {clue}　危险 {danger};
+choose:潘子的装备摊:hub4_shop.txt|(pts>=1)->分配属性点:hub4_alloc.txt|看看自己:hub4_status.txt|继续赶路:ch5_a.txt;

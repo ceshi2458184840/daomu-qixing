@@ -1,0 +1,7 @@
+changeBg:bg_hei.jpg;
+:【吴邪的记事本】;
+:金币 {coin}　体力 {stamina}　胆识 {brave}　知识 {lore};
+:小哥好感 {fav_ge}　胖子好感 {fav_pang}　三叔好感 {fav_san};
+:线索 {clue}　危险值 {danger};
+:装备：黑驴蹄子{has_hei}　洛阳铲{has_chan}　符纸{has_fu}　电池{has_bat}　匕首{has_knife}　青铜灯{has_lamp};
+choose:合上本子:hub4.txt;

@@ -1,0 +1,8 @@
+Game_name:盗墓笔记·七星鲁王宫;
+Game_key:dm7x9k2q;
+Title_img:Title.png;
+Title_bgm:title_amb.mp3;
+Enable_Appreciation:true;
+Enable_Continue:true;
+Enable_flowchart:true;
+Default_Language:zh_CN;

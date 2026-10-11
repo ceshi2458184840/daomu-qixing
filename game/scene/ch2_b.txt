@@ -1,0 +1,12 @@
+:你数出钱，把洛阳铲扛回了村屋。;
+changeBg:bg_laozhai.jpg;
+潘子:嚯，洛阳铲，小天真舍得下本啊。;
+吴三省:带这玩意儿，是想自己探土？;
+吴邪:跟三叔学的。您不是说，看土比看人准。;
+:三叔哼了一声，嘴角却松了一点。;
+setVar:fav_san=fav_san+1;
+setVar:coin=coin-100;
+setVar:has_chan=1;
+:夜里，我反复摩挲铲头，想象它在土里咬进去的样子。;
+:明天进山，我多了双眼睛，一柄能听懂泥土的铲子。;
+changeScene:sys_inter2.txt;

@@ -1,0 +1,4 @@
+setVar:pts=pts-1;
+setVar:stamina=stamina+1;
+:你把体力加上去了。体力现在是 {stamina}。;
+changeScene:hub3_alloc.txt;

@@ -1,0 +1,4 @@
+setVar:pts=pts-1;
+setVar:brave=brave+1;
+:你把胆识加上去了。胆识现在是 {brave}。;
+changeScene:hub5_alloc.txt;

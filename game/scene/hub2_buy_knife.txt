@@ -1,0 +1,5 @@
+setVar:coin=coin-60;
+setVar:has_knife=1;
+:潘子:军刺，开了刃，压手。;
+:你付了 60 金，把匕首收进包里。剩 {coin} 金。;
+changeScene:hub2_shop.txt;

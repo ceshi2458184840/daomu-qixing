@@ -1,0 +1,5 @@
+setVar:coin=coin-80;
+setVar:has_chan=1;
+:潘子:洛阳铲，一铲下去就知道底下有没有东西。;
+:你付了 80 金，把洛阳铲收进包里。剩 {coin} 金。;
+changeScene:hub2_shop.txt;

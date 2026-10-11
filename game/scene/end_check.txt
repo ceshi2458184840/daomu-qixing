@@ -1,0 +1,13 @@
+changeBg:bg_hei.jpg;
+bgm:gate_deep.mp3 -volume=85 -enter=2500;
+:【结算】;
+:金币 {coin}　胆识 {brave}　体力 {stamina}　知识 {lore};
+:小哥好感 {fav_ge}　胖子好感 {fav_pang}　三叔好感 {fav_san};
+:线索 {clue}　危险值 {danger};
+changeScene:end_buried.txt -when=danger>=10;
+changeScene:end_zhenxiang.txt -when=danger<=4 && clue>=4 && fav_ge>=5;
+changeScene:end_tonggui.txt -when=fav_ge>=6 && danger>=5;
+changeScene:end_facai.txt -when=fav_pang>=6 && coin>=400;
+changeScene:end_kaogu.txt -when=fav_san>=5 && clue>=3;
+changeScene:end_can.txt -when=danger>=7;
+changeScene:end_alone.txt;

@@ -1,0 +1,17 @@
+:我蹲下去，把青铜铃铛按原样放回浅槽里，青砖轻轻扣上。;
+setVar:clue=clue+1;
+setVar:lore=lore+1;
+:有人比我们先来过，还取走了铃舌。这墓里的每一件东西，位置本身就是信息。;
+吴邪:东西动过就还回去。前人来过，说明这条道走得通。;
+小哥:嗯。;
+changeFigure:xiaoge.png -left;
+:小哥看了我一眼。很短的一眼，但我看懂了，他没有反对。;
+setVar:fav_ge=fav_ge+1;
+:他转身走向青铜棺椁，绕着石台走了半圈，在手电光里停下。;
+小哥:开棺。;
+吴邪:这么急？机关虽然死了，可谁保准没有第二道。;
+小哥:里面那个人，等了很久了。;
+changeFigure:none;
+changeFigure:pangzi.png -right;
+胖子:胖爷我干这行这么多年，头一回听人说粽子在等人。;
+choose:和胖子一起动手撬棺盖:ch4_open.txt|(brave>=3)->徒手上手，直面棺盖缝里的动静:ch4_open2.txt|劝大家先查壁画星图再开:ch4_delay.txt;

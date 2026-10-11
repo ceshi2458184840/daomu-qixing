@@ -1,0 +1,4 @@
+setVar:pts=pts-1;
+setVar:lore=lore+1;
+:你把知识加上去了。知识现在是 {lore}。;
+changeScene:hub3_alloc.txt;

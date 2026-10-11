@@ -1,0 +1,7 @@
+:我扑过去把胖子拽下来，两人滚在地上，沙柱砸在刚才站的地方。;
+setVar:danger=danger+1;
+胖子:嘿，还救我，你自己都快交代了。;
+setVar:fav_pang=fav_pang+1;
+:沙停了。胖子拍拍土，没再乱踩。;
+:这地方每一块石板下面，都可能是一口翻板。;
+changeScene:ch5_d.txt;

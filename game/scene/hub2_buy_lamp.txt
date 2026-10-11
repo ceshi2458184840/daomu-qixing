@@ -1,0 +1,5 @@
+setVar:coin=coin-100;
+setVar:has_lamp=1;
+:潘子:青铜小灯，灯油一股子陈年腥味，照得亮墓里的刻痕。;
+:你付了 100 金，把青铜灯收进包里。剩 {coin} 金。;
+changeScene:hub2_shop.txt;

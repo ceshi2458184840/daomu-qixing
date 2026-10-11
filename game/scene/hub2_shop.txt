@@ -1,0 +1,5 @@
+changeBg:bg_hei.jpg;
+:【潘子的装备摊】摊子就铺在篝火边上。;
+:“小吴老板，钱是自己的，命也是自己的。”;
+:现有 {coin} 金币。;
+choose:(coin>=50 && has_hei==0)->黑驴蹄子（50金）:hub2_buy_hei.txt|(coin>=80 && has_chan==0)->洛阳铲（80金）:hub2_buy_chan.txt|(coin>=40 && has_fu==0)->符纸（40金）:hub2_buy_fu.txt|(coin>=30 && has_bat==0)->备用电池（30金）:hub2_buy_bat.txt|(coin>=60 && has_knife==0)->匕首（60金）:hub2_buy_knife.txt|(coin>=100 && has_lamp==0)->青铜灯（100金）:hub2_buy_lamp.txt|离开:hub2.txt;

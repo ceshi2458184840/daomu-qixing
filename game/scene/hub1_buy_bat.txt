@@ -1,0 +1,5 @@
+setVar:coin=coin-30;
+setVar:has_bat=1;
+:潘子:两节五号电池，手电的命。;
+:你付了 30 金，把备用电池收进包里。剩 {coin} 金。;
+changeScene:hub1_shop.txt;

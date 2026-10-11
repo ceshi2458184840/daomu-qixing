@@ -1,0 +1,9 @@
+changeBg:bg_hei.jpg;
+bgm:title_amb.mp3 -volume=80 -enter=2000;
+:【第3章 · 结算】;
+:三叔把这一趟的收成分了。到手 200 金币。;
+setVar:coin=coin+200;
+:你也从这一趟里摸到了些门道。;
+setVar:pts=pts+1;
+:你现在有 {coin} 金币，{pts} 点可分配属性。;
+changeScene:hub3.txt;

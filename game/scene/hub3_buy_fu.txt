@@ -1,0 +1,5 @@
+setVar:coin=coin-40;
+setVar:has_fu=1;
+:潘子:黄纸朱砂画的符，管不管用另说，攥手里心里稳。;
+:你付了 40 金，把符纸收进包里。剩 {coin} 金。;
+changeScene:hub3_shop.txt;

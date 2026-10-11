@@ -1,0 +1,3 @@
+changeBg:bg_hei.jpg;
+:【分配属性点】剩余 {pts} 点。;
+choose:(pts>=1)->体力 +1（扛得住）:hub3_add_sta.txt|(pts>=1)->胆识 +1（不怕）:hub3_add_bra.txt|(pts>=1)->知识 +1（认得）:hub3_add_lor.txt|回到营地:hub3.txt;
