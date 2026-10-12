@@ -1,3 +1,4 @@
+changeBg:bg_mudao.jpg;
 :我咬着牙滑下水边的石头。水冰得刺骨，凉气顺着裤管往上钻。;
 setVar:brave=brave+1;
 setVar:fav_pang=fav_pang+2;
@@ -7,6 +8,7 @@ setVar:fav_pang=fav_pang+2;
 :水下的黑影擦着我的腿游过去了，一条，又一条。;
 :我不敢看，把大奎整个人往上拖。;
 :胖子在石头上吼，声音都劈了。;
+changeBg:bg_mudao.jpg;
 胖子:天真！上！快上！水里有东西在看你！;
 :我最后使一股劲，把大奎甩上石台，自己跟着翻了上去。;
 :腿肚子上的水凉得像贴着一块冰。;
@@ -16,4 +18,5 @@ setVar:fav_pang=fav_pang+2;
 setVar:fav_san=fav_san+1;
 :回头的瞬间，我看见水下的黑影沉回了潭底。;
 :它刚才就在我腿边。就在我腿边。;
+changeFigure:none;
 changeScene:ch3_f2.txt;

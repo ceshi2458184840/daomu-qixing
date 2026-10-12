@@ -7,7 +7,7 @@ bgm:gate_deep.mp3 -volume=90 -enter=2000;
 :七口棺，棺位暗合北斗。天枢、天璇、天玑、天权、玉衡、开阳、摇光。;
 吴邪:七星棺。传说鲁殇王下葬，用六口空棺护一口真棺。;
 胖子:也就是说，六口是空的，一口装着那位爷。;
-changeFigure:pangzi.png -left;
+changeFigure:pangzi.png -left -id=fig_pangzi;
 胖子:那还犹豫什么，挨个开呗，总有一个是真的。;
 吴邪:胖子，你别动。;
 :话音没落，胖子已经一脚踏上了离他最近的那口棺的棺床。;

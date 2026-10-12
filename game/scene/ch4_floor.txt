@@ -1,6 +1,7 @@
+changeBg:bg_mudao.jpg;
 :小哥已经站在棺椁尾端，手指点在石台侧面一块青砖上。砖面和其他的没有任何区别，可他的指节在同一个位置敲了三下。;
 :闷、闷、实。第三下声音变了。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 小哥:这砖后面是空的。;
 吴邪:机关？;
 小哥:以前是。铃舌被取走了，机关就是死的。;

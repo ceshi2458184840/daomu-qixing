@@ -1,8 +1,9 @@
+changeBg:bg_mudao.jpg;
 :我按住胖子的手腕，把小哥的话原样转述给三叔。;
 吴邪:小哥说印还没破，玉不能拿。拿了印就开。;
 三叔:听他的。我记拓片。;
 :三叔掏出炭笔，就着手电把锁魂印的姿势一笔一笔描下来。小哥站在一旁，眼睛始终没离开干尸的手。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:lore=lore+1;
 setVar:clue=clue+1;
 :描完最后一笔，三叔收起炭笔，忽然停住。;

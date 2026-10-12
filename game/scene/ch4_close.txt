@@ -1,5 +1,6 @@
+changeBg:bg_mushi.jpg;
 :胖子已经把黑玉抠出来了，现在收手也来不及。棺盖合上的瞬间，我听见里面传来一声极轻的、指甲刮过青铜的声音。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:danger=danger+1;
 :小哥的眼睛盯着棺盖缝，一眨不眨。;
 小哥:印破了一半。玉在谁手里。;

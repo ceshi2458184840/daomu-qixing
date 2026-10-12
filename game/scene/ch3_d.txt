@@ -1,3 +1,4 @@
+changeBg:bg_cave.jpg;
 :我摸出备用电池，背过身拧手电的尾巴盖。;
 setVar:has_bat=0;
 :换电池的十几秒，是我这辈子最长的十几秒。;
@@ -7,4 +8,5 @@ setVar:has_bat=0;
 :光一扫，最前面一层尸蟞僵了一下，潮水一样退了。;
 :它们怕光。好，至少换来了十分钟。;
 吴邪:省着点用，这是最后一节了。;
+changeFigure:none;
 changeScene:ch3_f.txt;

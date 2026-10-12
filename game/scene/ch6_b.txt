@@ -1,7 +1,8 @@
+changeBg:bg_lamp.jpg;
 :打火机亮了。火苗很小，照出棺口那双手。;
 :玉衣的手，真的在抬。;
 :小哥的刀压了上去。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 bgm:tomb_drone.mp3 -volume=90 -enter=1000;
 小哥:按住。别松手。;
 :刀和玉手僵在棺口上。玉片摩擦的声音，像指甲刮墙。;

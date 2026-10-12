@@ -1,3 +1,4 @@
+changeBg:bg_mudao.jpg;
 :我死死扒着高处的石头，不敢动。;
 setVar:danger=danger+1;
 :水里的黑影追上大奎，缠住了他的腿。;
@@ -11,4 +12,5 @@ setVar:danger=danger+1;
 :他把命捡回来半条，从那以后见水就抖，跟废了差不多。;
 :胖子蹲在他旁边骂，骂着骂着就没了声。;
 胖子:天真，这潭子里的东西，比尸蟞还邪。;
+changeFigure:none;
 changeScene:ch3_f2.txt;

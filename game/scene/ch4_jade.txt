@@ -1,5 +1,6 @@
+changeBg:bg_mushi.jpg;
 :小哥没等我们商量，探手入棺。动作快得像一记闪电，手腕一翻，半块黑玉已经在掌心。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:fav_ge=fav_ge+1;
 setVar:clue=clue+1;
 :同一瞬间，干尸的辫子猛地绷直，整具躯体像被抽了一下，右手五指缓缓张开。;

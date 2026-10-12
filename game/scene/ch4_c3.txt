@@ -1,3 +1,4 @@
+changeBg:bg_mushi.jpg;
 :我把手电转向小哥。他站在西墙前，光打在他侧脸上，纹丝不动。;
 吴邪:棺底的路，通向哪儿。;
 小哥:不知道。;
@@ -7,14 +8,15 @@
 吴邪:谁。;
 小哥:比你爷爷更早的人。;
 :墓室里的空气像凝住了。比爷爷更早，那是几十年前的事了，再往前，就是这墓下葬的时候。;
+changeBg:bg_mudao.jpg;
 三叔:天真，别问了。他知道的比我们多，但不是现在能说的。;
 changeFigure:none;
 :小哥忽然转身走向青铜棺椁，绕着石台走了半圈，在手电光里停下。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 小哥:开棺。;
 吴邪:这么急？机关虽然死了，可谁保准没有第二道。;
 小哥:里面那个人，等了很久了。;
 changeFigure:none;
-changeFigure:pangzi.png -right;
+changeFigure:pangzi.png -right -id=fig_pangzi;
 胖子:得了，胖爷我腿都蹲麻了，开就开吧。;
 choose:和胖子一起动手撬棺盖:ch4_open.txt|(brave>=3)->徒手上手，直面棺盖缝里的动静:ch4_open2.txt|劝大家先查壁画星图再开:ch4_delay.txt;

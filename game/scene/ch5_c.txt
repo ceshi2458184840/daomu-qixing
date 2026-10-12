@@ -1,6 +1,8 @@
+changeBg:bg_star.jpg;
 :胖子站在原地不敢动。沙从头顶的缝里漏下来，落了他一头。;
 setVar:danger=danger+1;
 :好在石板只是虚掩，没有全陷。他慢慢退了回来。;
 胖子:这他娘的谁修的墓，跟地雷阵似的。;
 :胖子蔫了，但话少了。他盯着那七口棺，眼神第一次认真起来。;
+changeFigure:none;
 changeScene:ch5_d.txt;

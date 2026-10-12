@@ -1,3 +1,4 @@
+changeBg:bg_mushi.jpg;
 :我深吸一口气，走到棺前。土腥味混着甜腻直冲鼻腔，胃里一阵翻搅。;
 :棺盖滑开一半，手电的光打进去，照见一具干尸侧躺在里面。;
 :皮肤完好，肌肉没有塌陷，指甲乌黑，长发编成辫子盘在头顶。他穿着多层丝织寿衣，最外一层绣着北斗七星。;
@@ -8,7 +9,7 @@
 吴邪:这不科学。隔绝空气也做不到这种程度，除非……;
 三叔:除非他下葬的时候，就不是死人的下法。;
 :小哥的手搭上我的肩膀，很轻，但很用力。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:fav_ge=fav_ge+1;
 setVar:brave=brave+1;
 小哥:退后。;

@@ -1,3 +1,4 @@
+changeBg:bg_laozhai.jpg;
 :我合上画册，把柜台钥匙收进口袋。;
 吴邪:我去。;
 三叔:好。;
@@ -14,4 +15,5 @@ jumpLabel:lab_go -when=clue>=1;
 label:lab_go;
 :临上车前，我又想起帛书上那句话。;
 :"入地者，循星而行。见棺，勿启。";
+changeFigure:none;
 changeScene:sys_inter1.txt;

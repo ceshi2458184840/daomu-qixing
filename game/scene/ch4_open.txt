@@ -1,3 +1,4 @@
+changeBg:bg_mushi.jpg;
 :我和胖子一人一边，把撬棍楔进棺盖缝里。青铜锈一碰就簌簌往下掉，呛得人直咳嗽。;
 setVar:stamina=stamina-1;
 胖子:一、二、三！;
@@ -5,7 +6,7 @@ setVar:stamina=stamina-1;
 吴邪:这味儿不对。三叔，这是尸油的味。;
 三叔:退后！都退后！;
 :小哥一把将我和胖子拽开三步。动作快得我根本没看清。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:fav_ge=fav_ge+1;
 :棺盖滑开一半。手电的光打进去，照见了里面的东西。;
 :一具干尸侧躺在棺里，皮肤完好，肌肉没有塌陷，指甲乌黑，长发编成辫子盘在头顶。;

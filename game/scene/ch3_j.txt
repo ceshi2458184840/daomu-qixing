@@ -1,3 +1,4 @@
+changeBg:bg_mudao.jpg;
 :我按住胖子，先绕着水潭走。;
 setVar:lore=lore+1;
 :潭边一圈石头，全被水浸得发黑，踩上去像踩海绵。;
@@ -10,4 +11,5 @@ setVar:lore=lore+1;
 :我抄下星图，记进本子里。;
 setVar:clue=clue+1;
 :手电的光越来越暗，水面下，有东西跟着我们的脚步在动。;
+changeFigure:none;
 changeScene:ch3_k.txt;

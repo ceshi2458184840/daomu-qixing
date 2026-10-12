@@ -1,6 +1,7 @@
+changeBg:bg_cave.jpg;
 :虫群退了，没人顾得上说话。;
 :这时候我们才想起来——大奎呢。;
-changeFigure:pangzi.png -right;
+changeFigure:pangzi.png -right -id=fig_pangzi;
 胖子:大奎？大奎！;
 :手电扫过去，大奎在低处的水边，抱着膝盖缩成一团。;
 :一只尸蟞咬在他小腿上，还没松口。;

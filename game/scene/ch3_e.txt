@@ -1,3 +1,4 @@
+changeBg:bg_cave.jpg;
 :身上什么家伙都没有。;
 :我手脚并用往高处翻，石头湿得抓不住，指甲缝全是泥。;
 setVar:danger=danger+3;
@@ -8,4 +9,5 @@ setVar:danger=danger+3;
 胖子:命大。下次出门先看带没带家伙，再看你那点存款。;
 :尸蟞在下面盘了一阵，慢慢退回水里。水面重新合上。;
 :我瘫在石头上喘气，后背的冷汗把衣服浸透了。;
+changeFigure:none;
 changeScene:ch3_f.txt;

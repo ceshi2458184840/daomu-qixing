@@ -1,8 +1,9 @@
+changeBg:bg_mudao.jpg;
 :墓室四壁的水珠还在往下滴，像整个墓室都在醒。;
 吴邪:三叔，我看先退出去。棺底的路，暗的，不知道通到哪儿，贸然下去是送死。;
 三叔:嗯，稳一点好。东西都记下了，拓片也画了，下次带着家伙再来。;
 :胖子一脸不情愿，但还是把撬棍收了。小哥已经把青砖按回原位，砖缝对得严丝合缝。;
-changeFigure:xiaoge.png -left;
+changeFigure:xiaoge.png -left -id=fig_xiaoge;
 setVar:fav_ge=fav_ge+1;
 小哥:稳妥。;
 :我们退出主墓室。身后那具青铜棺椁沉在黑暗里，像一头闭上眼睛的兽。;
@@ -15,4 +16,5 @@ bgm:tomb_drone.mp3 -volume=90 -enter=2000;
 三叔:铃舌被取走的那一拨。他们知道机关在哪儿，也知道棺底的路。;
 胖子:乖乖，那拨人要还在里头，咱这是给人家打头阵来了。;
 :我没有接话。西墙那块凿痕，还有小哥那句"这个纹样我见过"，都在我心里压着。;
+changeFigure:none;
 changeScene:sys_inter4.txt;

@@ -9,4 +9,5 @@ setVar:coin=coin-100;
 setVar:has_chan=1;
 :夜里，我反复摩挲铲头，想象它在土里咬进去的样子。;
 :明天进山，我多了双眼睛，一柄能听懂泥土的铲子。;
+changeFigure:none;
 changeScene:sys_inter2.txt;

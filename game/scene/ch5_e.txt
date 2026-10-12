@@ -1,7 +1,9 @@
+changeBg:bg_star.jpg;
 :凿痕被人起开过，我赌它就是入口。胖子下铲，撬开第三口棺。;
 :棺里没有尸体，是一条向下的斜道，黑黢黢的，往外冒着凉气。;
 setVar:clue=clue+1;
 setVar:brave=brave+1;
 胖子:嘿，夹层！真棺在底下！;
 :胖子难得笑得这么开心。可我心里始终有个疙瘩。;
+changeFigure:none;
 changeScene:ch5_h.txt;

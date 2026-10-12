@@ -1,3 +1,4 @@
+changeBg:bg_cave.jpg;
 :我抽出一张符纸，打火机一点。;
 setVar:has_fu=0;
 :火苗舔着黄纸，腥臭味里忽然混进一股烧纸的焦香。;
@@ -6,4 +7,5 @@ setVar:has_fu=0;
 胖子:三爷这路数邪门，可邪门压得住邪。;
 :符纸烧到指尖，灰烬飘进黑水里。虫群散了。;
 :手里符纸就剩最后半张，我小心收好，心口还在跳。;
+changeFigure:none;
 changeScene:ch3_f.txt;
